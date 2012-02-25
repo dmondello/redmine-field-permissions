@@ -1,0 +1,12 @@
+# Created Daniele Mondello
+# Web:   www.danielemondello.it
+# Email: mondello@olomedia.it
+# Date:  18/02/12
+# Time:  20:11
+# IT
+it:
+  permission_assigned_to:     "Abilita Assegnazione"
+  permission_start_date:      "Abilita Data Inizio"
+  permission_due_date:        "Abilita Scadenza"
+  permission_estimated_hours: "Abilita Tempo stimato"
+  permission_priority: 	      "Abilita Priorità"
