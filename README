@@ -6,7 +6,7 @@
 
 English:
 
-With "Fields permissions plugin" you can enable/disable the view of 5 fields for some users or groups:
+With "redmine fields permissions" plugin you can enable/disable the view of 5 fields for some users or groups:
 
 - Assigned to
 - Start date
@@ -16,7 +16,7 @@ With "Fields permissions plugin" you can enable/disable the view of 5 fields for
 
 Italiano:
 
-Con il plugin "Fields permissions" è possibile abilitare/disabilitare la vista di 5 campi agli utenti o a gruppi di utenti:
+Con il plugin "redmine fields permissions" è possibile abilitare/disabilitare la vista di 5 campi agli utenti o a gruppi di utenti:
 
 - Assegnato
 - Data Inizio
